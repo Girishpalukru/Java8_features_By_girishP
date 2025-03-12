@@ -6,17 +6,17 @@ It includes various upgrades to the Java programming, JVM, Tools and libraries.
 
 Major Java 8 features are:
 
-Lambda Expressions
-Functional Interface
-Default methods
-Static methods
-Stream API
-Date/Time API
-Predefined Functional Interface
-Predicate 3. Consumer
-Function 4. Supplier
-Method reference / double colon operator (::)
-Optional class
-Nashorn Javascript engine
-Collectors class
-forEach()
+* Lambda Expressions
+* Functional Interface
+* Default methods
+* Static methods
+* Stream API
+* Date/Time API
+* Predefined Functional Interface
+1.	Predicate				3.  Consumer
+2.	Function				4.  Supplier
+* Method reference / double colon operator (::)
+* Optional class
+* Nashorn Javascript engine
+* Collectors class
+* forEach()
